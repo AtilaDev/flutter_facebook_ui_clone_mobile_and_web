@@ -1,9 +1,9 @@
 import 'package:flutter_facebook_responsive_ui/models/models.dart';
 
 final User currentUser = User(
-  name: 'Marcus Ng',
+  name: 'Leandro',
   imageUrl:
-      'https://images.unsplash.com/photo-1578133671540-edad0b3d689e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80',
+      'https://pbs.twimg.com/profile_images/1477419233248260115/AtTnpGFv_400x400.jpg',
 );
 
 final List<User> onlineUsers = [
